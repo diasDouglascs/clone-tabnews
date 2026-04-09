@@ -1,6 +1,6 @@
 function Home() {
     return<h1>
-        Olá Mundo!
+        Envolta do Mundo!
     </h1>
 }
 
